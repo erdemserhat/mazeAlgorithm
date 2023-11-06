@@ -27,8 +27,8 @@ This project offers an opportunity to understand the working logic of this algor
 ## Usage
 
 1. Create or edit the maze map in the "labirent.txt" file. Each character's meaning is as follows:
-   - '0': A valid path
-   - '1': An obstructed area
+   - '0': A wall
+   - '1': A valid path
    - '9': The destination point
 
 2. Run the Java program and observe the maze being solved.
