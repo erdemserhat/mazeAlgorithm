@@ -5,6 +5,9 @@ This project contains an algorithm that helps you navigate a maze map from the s
 
 https://github.com/erdemserhat/mazeAlgorithm/assets/116950260/9b5a605e-915c-45fd-9764-7bc4445031cf
 
+![1a](https://github.com/user-attachments/assets/c3753ab9-a27d-407d-bba6-9ca5e462618e)
+
+
 
 
 ## Algorithm Overview
